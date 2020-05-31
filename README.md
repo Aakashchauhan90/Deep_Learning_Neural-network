@@ -4,8 +4,7 @@ We will use the functions you'd implemented in the previously to build a deep ne
 
 Let's get started!
 
-1 - Packages¶
-Let's first import all the packages that you will need during this assignment.
+1 - Packages
 
 numpy is the fundamental package for scientific computing with Python.
 matplotlib is a library to plot graphs in Python.
